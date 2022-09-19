@@ -27,6 +27,12 @@ Attacker can inject dangeroues script on some parameters
 
 sanitise and escape some parameters before outputting them back in a page
 
+## CVSS Score
+
+CVSS:3.0/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N 3.1(LOW)
+
+
+
 
 
 
